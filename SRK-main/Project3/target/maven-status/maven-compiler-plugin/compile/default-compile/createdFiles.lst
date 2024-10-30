@@ -1,0 +1,5 @@
+com\srk\entity\Student.class
+com\srk\service\StudentService.class
+com\srk\repository\StudentRepo.class
+com\srk\controller\StudentController.class
+com\srk\Project3Application.class
